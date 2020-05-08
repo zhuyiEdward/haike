@@ -1,0 +1,3 @@
+[submodule "haike_module_one"]
+	path = haike_module_one
+	url = https://github.com/zhuyiEdward/haike_module_one

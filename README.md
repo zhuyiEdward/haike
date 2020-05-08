@@ -1,3 +1,3 @@
 # haike
 
-  吉特hub与gitbook整合
+  github与gitbook整合
